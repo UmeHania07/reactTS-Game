@@ -1,0 +1,25 @@
+.Block{
+  border: 2px solid;
+  height: 100px;
+  width: 100px;
+  cursor: pointer;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 33px;
+  font-weight: bold;
+}
+
+
+
+.Board{
+  padding: 20px;
+  margin-left:35%;
+}
+
+.row{
+  display: flex;
+
+}
